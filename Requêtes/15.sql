@@ -1,0 +1,4 @@
+-- AFFICHE LES SOCIETES ET ADRESSES PAR ORDRE DE PAYS
+SELECT NomSociete, Adresse
+FROM Ventes.dbo.Client
+ORDER BY Pays;

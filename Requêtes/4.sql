@@ -1,0 +1,3 @@
+-- AFFICHE LE NOM DE SOCIETE DES CLIENTS
+SELECT NomSociete
+FROM Ventes.dbo.Client;

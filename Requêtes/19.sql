@@ -1,0 +1,7 @@
+-- LISTE LES COMMANDES EFFECTUEES EN JUILLET 1996
+SELECT *
+FROM Ventes.dbo.Commande
+WHERE DateCommande BETWEEN'19960701' AND '19960731 23:59:59';
+-- Or with this clause 
+--WHERE YEAR(DateCommande)='1996' AND MONTH(DateCommande)='7';
+

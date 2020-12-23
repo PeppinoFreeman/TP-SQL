@@ -1,0 +1,5 @@
+-- AFFICHE LES PAYS AVEC PLUS DE 3 CLIENTS
+SELECT Pays, COUNT(*) AS 'Nombre de clients'
+FROM Ventes.dbo.Client
+GROUP BY Pays
+HAVING COUNT(*) > 3;

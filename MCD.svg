@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="454mm" xmlns="http://www.w3.org/2000/svg" height="186mm" version="1.1" viewBox="0 0 1717 705" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="1225,474 1030,474" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1030,474 835,474" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="914,464 940,474 914,483 914,464" stroke="#0080c0" stroke-width="1"/>
+   <text x="1020" y="468" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Commandes_Clients</text>
+   <polyline fill="none" points="441,463 638,463" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="638,463 835,463" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="757,472 730,463 757,454 757,472" stroke="#0080c0" stroke-width="1"/>
+   <text x="659" y="457" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Commandes_Employes</text>
+   <polyline fill="none" points="835,596 835,530" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="835,530 835,463" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="845,492 835,518 826,492 845,492" stroke="#0080c0" stroke-width="1"/>
+   <text x="835" y="539" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Commandes_Transporteurs</text>
+   <polyline fill="none" points="441,676 441,570" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="441,570 441,463" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="450,570 441,596 431,570 450,570" stroke="#0080c0" stroke-width="1"/>
+   <text x="440" y="619" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Employee_Service</text>
+   <polyline fill="none" points="365,463 365,283 245,283" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="245,283 245,403 441,403" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="318,412 292,403 318,394 318,412" stroke="#0080c0" stroke-width="1"/>
+   <text x="245" y="286" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Employes_Employes</text>
+   <polyline fill="none" points="441,463 441,340" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="441,340 441,218" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="450,233 441,260 431,233 450,233" stroke="#0080c0" stroke-width="1"/>
+   <text x="440" y="298" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_HistoriqueSalaires_Employee</text>
+   <polyline fill="none" points="830,463 830,258" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="830,258 830,52" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="839,68 830,95 821,68 839,68" stroke="#0080c0" stroke-width="1"/>
+   <text x="829" y="254" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">fk_LigneCommandes_reference_Commande</text>
+   <polyline fill="none" points="1219,58 1022,58" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1022,58 825,58" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="889,48 916,58 889,67 889,48" stroke="#0080c0" stroke-width="1"/>
+   <text x="993" y="52" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">fk_LigneCommandes_reference_produit</text>
+   <polyline fill="none" points="1603,58 1411,58" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1411,58 1219,58" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1339,48 1366,58 1339,67 1339,48" stroke="#0080c0" stroke-width="1"/>
+   <text x="1422" y="52" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Produits_Categories</text>
+   <polyline fill="none" points="1219,276 1219,170" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1219,170 1219,63" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="1229,111 1219,138 1210,111 1229,111" stroke="#0080c0" stroke-width="1"/>
+   <text x="1276" y="159" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Produits_Fournisseurs</text>
+   <polyline fill="none" points="105,676 273,676" stroke="#0080c0" stroke-width="1" stroke-dasharray="16,8"/>
+   <polyline fill="none" points="273,676 441,676" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="352,686 326,676 352,667 352,686" stroke="#0080c0" stroke-width="1"/>
+   <text x="273" y="670" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">FK_Service_Division</text>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="28" y="463" rx="6" ry="6" fill="url(#Gradient1)" width="164" height="54" stroke="#0080c0" stroke-width="1"/>
+   <text x="109" y="474" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Collation</text>
+   <text x="36" y="488" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="48" y="488" fill="#000000" font-size="10" font-family="Arial">texte</text>
+   <text x="79" y="488" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1115" y="403" rx="20" ry="20" fill="url(#Gradient2)" width="219" height="162" stroke="#0080c0" stroke-width="1"/>
+   <text x="1224" y="414" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Client</text>
+   <text x="1129" y="428" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="1129" y="441" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1129" y="454" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1129" y="467" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1129" y="480" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1129" y="493" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1129" y="506" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1129" y="519" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1129" y="532" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1129" y="545" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1129" y="558" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1143" y="428" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ClientId</text>
+   <text x="1143" y="441" fill="#000000" font-size="10" font-family="Arial">NomSociete</text>
+   <text x="1143" y="454" fill="#000000" font-size="10" font-family="Arial">ContactNom</text>
+   <text x="1143" y="467" fill="#000000" font-size="10" font-family="Arial">ContactTitre</text>
+   <text x="1143" y="480" fill="#000000" font-size="10" font-family="Arial">Adresse</text>
+   <text x="1143" y="493" fill="#000000" font-size="10" font-family="Arial">Ville</text>
+   <text x="1143" y="506" fill="#000000" font-size="10" font-family="Arial">Region</text>
+   <text x="1143" y="519" fill="#000000" font-size="10" font-family="Arial">CodePostal</text>
+   <text x="1143" y="532" fill="#000000" font-size="10" font-family="Arial">Pays</text>
+   <text x="1143" y="545" fill="#000000" font-size="10" font-family="Arial">Telephone</text>
+   <text x="1143" y="558" fill="#000000" font-size="10" font-family="Arial">Fax</text>
+   <text x="1143" y="570" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="1209" y="428" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Caractère (5)</text>
+   <text x="1209" y="441" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="1209" y="454" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="1209" y="467" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="1209" y="480" fill="#000000" font-size="10" font-family="Arial">Caractère variable (60)</text>
+   <text x="1209" y="493" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1209" y="506" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1209" y="519" fill="#000000" font-size="10" font-family="Arial">Caractère variable (10)</text>
+   <text x="1209" y="532" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1209" y="545" fill="#000000" font-size="10" font-family="Arial">Caractère variable (24)</text>
+   <text x="1209" y="558" fill="#000000" font-size="10" font-family="Arial">Caractère variable (24)</text>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1491" y="23" rx="7" ry="7" fill="url(#Gradient3)" width="224" height="58" stroke="#0080c0" stroke-width="1"/>
+   <text x="1603" y="34" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Categorie</text>
+   <text x="1499" y="48" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="1499" y="61" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1499" y="74" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1513" y="48" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">CategorieId</text>
+   <text x="1513" y="61" fill="#000000" font-size="10" font-family="Arial">NomCategorie</text>
+   <text x="1513" y="74" fill="#000000" font-size="10" font-family="Arial">Description</text>
+   <text x="1513" y="86" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="1589" y="48" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="1589" y="61" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1589" y="74" fill="#000000" font-size="10" font-family="Arial">Multibyte variable(2000)</text>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="650" rx="6" ry="6" fill="url(#Gradient4)" width="205" height="53" stroke="#0080c0" stroke-width="1"/>
+   <text x="104" y="661" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Division</text>
+   <text x="10" y="675" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="10" y="688" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="24" y="675" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">DivisionId</text>
+   <text x="24" y="688" fill="#000000" font-size="10" font-family="Arial">NomDivision</text>
+   <text x="91" y="675" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Octet</text>
+   <text x="91" y="688" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1103" y="189" rx="22" ry="22" fill="url(#Gradient5)" width="232" height="175" stroke="#0080c0" stroke-width="1"/>
+   <text x="1219" y="200" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Fournisseur</text>
+   <text x="1119" y="214" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="1119" y="227" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1119" y="240" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="253" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="266" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="279" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1119" y="292" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="305" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="318" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1119" y="331" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="344" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1119" y="357" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1133" y="214" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">FournisseurId</text>
+   <text x="1133" y="227" fill="#000000" font-size="10" font-family="Arial">NomSociete</text>
+   <text x="1133" y="240" fill="#000000" font-size="10" font-family="Arial">ContactNom</text>
+   <text x="1133" y="253" fill="#000000" font-size="10" font-family="Arial">ContactTitre</text>
+   <text x="1133" y="266" fill="#000000" font-size="10" font-family="Arial">Adresse</text>
+   <text x="1133" y="279" fill="#000000" font-size="10" font-family="Arial">Ville</text>
+   <text x="1133" y="292" fill="#000000" font-size="10" font-family="Arial">Region</text>
+   <text x="1133" y="305" fill="#000000" font-size="10" font-family="Arial">CodePostal</text>
+   <text x="1133" y="318" fill="#000000" font-size="10" font-family="Arial">Pays</text>
+   <text x="1133" y="331" fill="#000000" font-size="10" font-family="Arial">Telephone</text>
+   <text x="1133" y="344" fill="#000000" font-size="10" font-family="Arial">Fax</text>
+   <text x="1133" y="357" fill="#000000" font-size="10" font-family="Arial">SiteWeb</text>
+   <text x="1133" y="369" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="1203" y="214" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="1203" y="227" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="1203" y="240" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="1203" y="253" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="1203" y="266" fill="#000000" font-size="10" font-family="Arial">Caractère variable (60)</text>
+   <text x="1203" y="279" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1203" y="292" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1203" y="305" fill="#000000" font-size="10" font-family="Arial">Caractère variable (10)</text>
+   <text x="1203" y="318" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="1203" y="331" fill="#000000" font-size="10" font-family="Arial">Caractère variable (24)</text>
+   <text x="1203" y="344" fill="#000000" font-size="10" font-family="Arial">Caractère variable (24)</text>
+   <text x="1203" y="357" fill="#000000" font-size="10" font-family="Arial">Caractère variable (100)</text>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="727" y="567" rx="7" ry="7" fill="url(#Gradient6)" width="216" height="58" stroke="#0080c0" stroke-width="1"/>
+   <text x="835" y="578" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Transporteur</text>
+   <text x="735" y="592" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="735" y="605" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="735" y="618" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="749" y="592" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">TransporteurId</text>
+   <text x="749" y="605" fill="#000000" font-size="10" font-family="Arial">NomSociete</text>
+   <text x="749" y="618" fill="#000000" font-size="10" font-family="Arial">Telephone</text>
+   <text x="749" y="630" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="825" y="592" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="825" y="605" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="825" y="618" fill="#000000" font-size="10" font-family="Arial">Caractère variable (24)</text>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="339" y="650" rx="6" ry="6" fill="url(#Gradient7)" width="203" height="53" stroke="#0080c0" stroke-width="1"/>
+   <text x="440" y="661" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Service</text>
+   <text x="347" y="675" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="347" y="688" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="361" y="675" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ServiceId</text>
+   <text x="361" y="688" fill="#000000" font-size="10" font-family="Arial">NomService</text>
+   <text x="426" y="675" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Entier court</text>
+   <text x="426" y="688" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1086" y="2" rx="15" ry="15" fill="url(#Gradient8)" width="267" height="122" stroke="#0080c0" stroke-width="1"/>
+   <text x="1219" y="13" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Produit</text>
+   <text x="1098" y="27" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="1098" y="40" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1098" y="53" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1098" y="66" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1098" y="79" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1098" y="92" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1098" y="105" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="1098" y="117" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="1112" y="27" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ProduitId</text>
+   <text x="1112" y="40" fill="#000000" font-size="10" font-family="Arial">NomProduit</text>
+   <text x="1112" y="53" fill="#000000" font-size="10" font-family="Arial">UniteContionnement</text>
+   <text x="1112" y="66" fill="#000000" font-size="10" font-family="Arial">PrixUnitaire</text>
+   <text x="1112" y="79" fill="#000000" font-size="10" font-family="Arial">QuantiteEnStock</text>
+   <text x="1112" y="92" fill="#000000" font-size="10" font-family="Arial">QuantiteEnCommande</text>
+   <text x="1112" y="105" fill="#000000" font-size="10" font-family="Arial">NiveauReappro</text>
+   <text x="1112" y="117" fill="#000000" font-size="10" font-family="Arial">EnRupture</text>
+   <text x="1112" y="129" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="1229" y="27" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="1229" y="40" fill="#000000" font-size="10" font-family="Arial">Caractère variable (40)</text>
+   <text x="1229" y="53" fill="#000000" font-size="10" font-family="Arial">Caractère variable (20)</text>
+   <text x="1229" y="66" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <text x="1229" y="79" fill="#000000" font-size="10" font-family="Arial">Entier court</text>
+   <text x="1229" y="92" fill="#000000" font-size="10" font-family="Arial">Entier court</text>
+   <text x="1229" y="105" fill="#000000" font-size="10" font-family="Arial">Entier court</text>
+   <text x="1229" y="117" fill="#000000" font-size="10" font-family="Arial">Booléen</text>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="305" y="343" rx="30" ry="30" fill="url(#Gradient9)" width="271" height="240" stroke="#0080c0" stroke-width="1"/>
+   <text x="440" y="354" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Employe</text>
+   <text x="325" y="368" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="325" y="381" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="325" y="394" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="325" y="407" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="420" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="433" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="446" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="459" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="472" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="485" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="498" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="511" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="524" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="537" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="550" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="325" y="563" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="325" y="576" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="339" y="368" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">EmployeId</text>
+   <text x="339" y="381" fill="#000000" font-size="10" font-family="Arial">Nom</text>
+   <text x="339" y="394" fill="#000000" font-size="10" font-family="Arial">Prenom</text>
+   <text x="339" y="407" fill="#000000" font-size="10" font-family="Arial">Titre</text>
+   <text x="339" y="420" fill="#000000" font-size="10" font-family="Arial">Civilite</text>
+   <text x="339" y="433" fill="#000000" font-size="10" font-family="Arial">Sexe</text>
+   <text x="339" y="446" fill="#000000" font-size="10" font-family="Arial">DateNaissance</text>
+   <text x="339" y="459" fill="#000000" font-size="10" font-family="Arial">DateEmbauche</text>
+   <text x="339" y="472" fill="#000000" font-size="10" font-family="Arial">Adresse</text>
+   <text x="339" y="485" fill="#000000" font-size="10" font-family="Arial">Ville</text>
+   <text x="339" y="498" fill="#000000" font-size="10" font-family="Arial">Region</text>
+   <text x="339" y="511" fill="#000000" font-size="10" font-family="Arial">CodePostal</text>
+   <text x="339" y="524" fill="#000000" font-size="10" font-family="Arial">Pays</text>
+   <text x="339" y="537" fill="#000000" font-size="10" font-family="Arial">TelephonePersonnel</text>
+   <text x="339" y="550" fill="#000000" font-size="10" font-family="Arial">Extension</text>
+   <text x="339" y="563" fill="#000000" font-size="10" font-family="Arial">SalaireActuel</text>
+   <text x="339" y="576" fill="#000000" font-size="10" font-family="Arial">Prime</text>
+   <text x="339" y="588" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="445" y="368" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="445" y="381" fill="#000000" font-size="10" font-family="Arial">Caractère variable (20)</text>
+   <text x="445" y="394" fill="#000000" font-size="10" font-family="Arial">Caractère variable (10)</text>
+   <text x="445" y="407" fill="#000000" font-size="10" font-family="Arial">Caractère variable (30)</text>
+   <text x="445" y="420" fill="#000000" font-size="10" font-family="Arial">Caractère variable (25)</text>
+   <text x="445" y="433" fill="#000000" font-size="10" font-family="Arial">Caractère (1)</text>
+   <text x="445" y="446" fill="#000000" font-size="10" font-family="Arial">Date &amp; Heure</text>
+   <text x="445" y="459" fill="#000000" font-size="10" font-family="Arial">Date &amp; Heure</text>
+   <text x="445" y="472" fill="#000000" font-size="10" font-family="Arial">Caractère variable (60)</text>
+   <text x="445" y="485" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="445" y="498" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="445" y="511" fill="#000000" font-size="10" font-family="Arial">Caractère variable (10)</text>
+   <text x="445" y="524" fill="#000000" font-size="10" font-family="Arial">Caractère variable (15)</text>
+   <text x="445" y="537" fill="#000000" font-size="10" font-family="Arial">Caractère variable (24)</text>
+   <text x="445" y="550" fill="#000000" font-size="10" font-family="Arial">Caractère variable (4)</text>
+   <text x="445" y="563" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <text x="445" y="576" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="364" y="189" rx="7" ry="7" fill="url(#Gradient10)" width="153" height="58" stroke="#0080c0" stroke-width="1"/>
+   <text x="440" y="200" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">HistoriqueSalaires</text>
+   <text x="373" y="214" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="373" y="227" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="373" y="240" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="387" y="214" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">DateDebut</text>
+   <text x="387" y="227" fill="#000000" font-size="10" font-family="Arial">Salaire</text>
+   <text x="387" y="240" fill="#000000" font-size="10" font-family="Arial">DateFin</text>
+   <text x="387" y="252" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="445" y="214" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Date &amp; Heure</text>
+   <text x="445" y="227" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <text x="445" y="240" fill="#000000" font-size="10" font-family="Arial">Date &amp; Heure</text>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="743" y="421" rx="10" ry="10" fill="url(#Gradient11)" width="184" height="84" stroke="#0080c0" stroke-width="1"/>
+   <text x="835" y="432" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Commande</text>
+   <text x="753" y="446" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">#</text>
+   <text x="753" y="459" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="753" y="472" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="753" y="485" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="753" y="498" fill="#000000" font-size="10" font-family="Arial">o</text>
+   <text x="767" y="446" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">CommandeId</text>
+   <text x="767" y="459" fill="#000000" font-size="10" font-family="Arial">DateCommande</text>
+   <text x="767" y="472" fill="#000000" font-size="10" font-family="Arial">DateDemandee</text>
+   <text x="767" y="485" fill="#000000" font-size="10" font-family="Arial">DateExpedition</text>
+   <text x="767" y="498" fill="#000000" font-size="10" font-family="Arial">Transport</text>
+   <text x="767" y="510" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="852" y="446" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Séquentiel</text>
+   <text x="852" y="459" fill="#000000" font-size="10" font-family="Arial">Date &amp; Heure</text>
+   <text x="852" y="472" fill="#000000" font-size="10" font-family="Arial">Date &amp; Heure</text>
+   <text x="852" y="485" fill="#000000" font-size="10" font-family="Arial">Date &amp; Heure</text>
+   <text x="852" y="498" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <defs>
+      <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b2d6fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="747" y="23" rx="7" ry="7" fill="url(#Gradient12)" width="155" height="58" stroke="#0080c0" stroke-width="1"/>
+   <text x="824" y="34" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">LigneCommandes</text>
+   <text x="755" y="48" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="755" y="61" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="755" y="74" fill="#000000" font-size="10" font-family="Arial">*</text>
+   <text x="767" y="48" fill="#000000" font-size="10" font-family="Arial">PrixUnitaire</text>
+   <text x="767" y="61" fill="#000000" font-size="10" font-family="Arial">Quantite</text>
+   <text x="767" y="74" fill="#000000" font-size="10" font-family="Arial">Remise</text>
+   <text x="767" y="86" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="830" y="48" fill="#000000" font-size="10" font-family="Arial">Monnaie</text>
+   <text x="830" y="61" fill="#000000" font-size="10" font-family="Arial">Entier court</text>
+   <text x="830" y="74" fill="#000000" font-size="10" font-family="Arial">Décimal (5,2)</text>
+</svg>

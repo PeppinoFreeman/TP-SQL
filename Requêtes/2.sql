@@ -1,0 +1,25 @@
+-- AFFICHE LE CONTENU DE CHAQUE TABLE
+SELECT *
+FROM Ventes.dbo.Collation;
+SELECT *
+FROM Ventes.dbo.Client;
+SELECT *
+FROM Ventes.dbo.Categorie;
+SELECT *
+FROM Ventes.dbo.Division;
+SELECT *
+FROM Ventes.dbo.Fournisseur;
+SELECT *
+FROM Ventes.dbo.Transporteur;
+SELECT *
+FROM Ventes.dbo.Service;
+SELECT *
+FROM Ventes.dbo.Produit;
+SELECT *
+FROM Ventes.dbo.Employe;
+SELECT *
+FROM Ventes.dbo.HistoriqueSalaires;
+SELECT *
+FROM Ventes.dbo.Commande;
+SELECT *
+FROM Ventes.dbo.LigneCommandes;

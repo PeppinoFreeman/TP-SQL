@@ -1,0 +1,14 @@
+-- CREE UNE TABLE ENTITE AVEC DEUX CHAMPS
+-- (LA CREATION NE SE FAIT QU'UNE SEULE FOIS)
+IF NOT EXISTS(SELECT *
+FROM sys.objects
+WHERE object_id = OBJECT_ID(N'[dbo].[Entite]') AND type in (N'U'))
+
+CREATE TABLE [Ventes].[dbo].[Entite]
+(
+    IDENTIFIANT INT NOT NULL PRIMARY KEY,
+    LIBELLE VARCHAR(100) not NULL
+)
+
+SELECT *
+FROM Ventes.dbo.Entite;

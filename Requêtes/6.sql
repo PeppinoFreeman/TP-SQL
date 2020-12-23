@@ -1,0 +1,4 @@
+-- AFFICHE LE NOM DE SOCIETE, CONTACTS ET ADRESSES 
+-- DE LA TABLE CLIENT
+SELECT NomSociete, ContactNom, Adresse
+FROM Ventes.dbo.Client;

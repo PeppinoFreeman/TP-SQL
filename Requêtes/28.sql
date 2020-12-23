@@ -1,0 +1,3 @@
+-- AFFICHE LE NOMBRE DE LIGNE DE LA TABLE COMMANDE
+SELECT COUNT(*) AS 'Nombre de lignes'
+FROM Ventes.dbo.Commande;

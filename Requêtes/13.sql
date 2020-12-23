@@ -1,0 +1,5 @@
+-- AFFICHE LES CLIENTS ANGLAIS OU FRANCAIS
+SELECT *
+FROM Ventes.dbo.Client
+WHERE Pays='UK'
+    OR Pays='France'; 

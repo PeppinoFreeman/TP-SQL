@@ -1,0 +1,16 @@
+-- CREE UNE TABLE MAISON
+-- (LA CREATION NE SE FAIT QU'UNE SEULE FOIS)
+IF NOT EXISTS(SELECT *
+FROM sys.objects
+WHERE object_id = OBJECT_ID(N'[dbo].[Maison]') AND type in (N'U'))
+
+CREATE TABLE [Ventes].[dbo].[Maison]
+(
+    NUM_MAISON INT NOT NULL,
+    CODE_LOCATAIRE INT NOT NULL,
+    NBR_CHAMBRE INT NOT NULL,
+    SURFACE INT NOT NULL,
+)
+
+SELECT *
+FROM Ventes.dbo.Maison;

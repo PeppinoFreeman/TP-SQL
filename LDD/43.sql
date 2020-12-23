@@ -1,0 +1,14 @@
+-- AJOUTE UNE COLONNE 'NUMERO_TELEPHONE' A LA TABLE LOCATAIRES
+-- (L'AJOUT NE SE FAIT QU'UNE SEULE FOIS)
+IF NOT EXISTS (
+  SELECT * 
+  FROM   sys.columns 
+  WHERE  object_id = OBJECT_ID(N'[dbo].[Locataires]') 
+         AND name = 'NUMERO_TELEPHONE'
+)
+
+ALTER TABLE Ventes.dbo.Locataires
+ADD NUMERO_TELEPHONE VARCHAR(40);
+
+SELECT *
+FROM Ventes.dbo.Locataires;

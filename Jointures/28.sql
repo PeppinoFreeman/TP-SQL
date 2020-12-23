@@ -1,0 +1,7 @@
+-- AFFICHE LA LISTE DES VILLES DES CLIENTS AVEC AU MOINS UNE COMMANDE
+-- DANS UN ORDRE ALPHABETIQUE
+SELECT Ville
+FROM Ventes.dbo.Client as Cl
+    JOIN Ventes.dbo.Commande as Co on Cl.ClientId = Co.ClientId
+GROUP By Ville
+ORDER BY Ville;
